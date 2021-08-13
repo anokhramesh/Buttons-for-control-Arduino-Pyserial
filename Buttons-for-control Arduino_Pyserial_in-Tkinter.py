@@ -1,4 +1,4 @@
-#Create Clicable buttons with command in tkinter.
+#Create Clickable buttons with command in tkinter.
 from tkinter import *
 import serial
 arduinoData = serial.Serial('com11', 9600)
